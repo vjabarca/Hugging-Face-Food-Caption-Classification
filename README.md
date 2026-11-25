@@ -1,17 +1,3 @@
----
-title: Food Not Food Text Classifier Web App
-emoji: 🍗🚫🍔
-colorFrom: blue
-colorTo: yellow
-sdk: static
-license: mit
-short_description: Classify text as food or not food (fine-tuned DistilBERT)
-models:
-  - vjabarca/HuggingFace_food_not_food_text_classifier-distilbert-base-uncased
-datasets:
-  - vjabarca/learn_hf_food_not_food_image_captions
----
-
 # 🍗🚫🍔 Food / Not Food Text Classifier
 
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)

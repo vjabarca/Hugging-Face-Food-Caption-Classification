@@ -18,7 +18,7 @@ datasets:
 ![Transformers](https://img.shields.io/badge/%F0%9F%A4%97%20Transformers-5.x-FFD21E)
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Base model](https://img.shields.io/badge/Base-distilbert--base--uncased-blue)
-![Status](https://img.shields.io/badge/status-prototype-orange)
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 A small text classifier that decides whether a sentence or image caption is about **food** or **not food**. It is a [DistilBERT](https://huggingface.co/distilbert/distilbert-base-uncased) model fine-tuned on 20,000 synthetic captions, packaged as a Hugging Face model, a dataset, and this web demo Space.
